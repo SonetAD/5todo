@@ -1,0 +1,19 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+}
+body {
+	overflow: hidden;
+}
+
+.mainarea {
+	transform: scale(0.5) translate(250px, 30px);
+	animation: none;
+	margin-left: 0px;
+}
+
+input {
+	transform: translateX(-250px);
+}
